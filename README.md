@@ -12,7 +12,7 @@ italic = replace with your own value<br/>
 
 ## Server Config
 **Autorole**<br/>
-config enable|disable autorole <roleID><br/>
+config enable|disable autorole <roleID> <br/>
 once a user joins your server they will automatically get this role<br/>
 **Link Detection**<br/>
 config enable|disable linkdetection<br/>
