@@ -11,15 +11,17 @@ The default command prefix is w!.
 italic = replace with your own value<br/>
 
 ## Server Config
-Autorole - <br/>
-Link Detection - <br/>
-Join/Leave Messages - <br/>
-Admin Pay Logs - <br/>
-Error Logs - <br/>
+**Autorole**<br/>
+config enable autorole <roleID> <br/>
+  f
+Link Detection<br/>
+Join/Leave Messages<br/>
+Admin Pay Logs<br/>
+Error Logs<br/>
 ## Server Moderation
-Purge - <br/>
-Kick - <br/>
-Ban - <br/>
+Purge<br/>
+Kick<br/>
+Ban<br/>
 
 [ ] Finish the full server config<br/>
 [ ] Home run database<br/>
