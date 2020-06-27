@@ -1,25 +1,25 @@
 # DankBotHelp
 ## Description
-Dank Bot is the best bot for server moderation, server config and server fun. It has a fully working economy system with cash, bank and stocks.
+Dank Bot is the best bot for server moderation, server config and server fun. It has a fully working economy system with cash, bank and stocks.<br/>
 
 The default command prefix is w!.
 
-<> = required
-[] = optional
-| = or
-... = accepts spaces
-italic = replace with your own value
+<> = required<br/>
+[] = optional<br/>
+| = or<br/>
+... = accepts spaces<br/>
+italic = replace with your own value<br/>
 
 ## Server Config
-Autorole - 
-Link Detection - 
-Join/Leave Messages
-Admin Pay Logs
-Error Logs
+Autorole - <br/>
+Link Detection - <br/>
+Join/Leave Messages<br/>
+Admin Pay Logs<br/>
+Error Logs<br/>
 ## Server Moderation
-Purge -
-Kick
-Ban
+Purge -<br/>
+Kick<br/>
+Ban<br/>
 
 [ ] Finish the full server config
 [ ] Home run database
